@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pirma Android ToDo</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_delete">Trinti</string>
+    <string name="alert_title">Trinti</string>
+    <string name="alert_prompt">Kanorite dar nuveikti</string>
+    <string name="alert_ok">Prideti</string>
+    <string name="alert_cancel">Atsaukti</string>
+</resources>
